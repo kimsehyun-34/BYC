@@ -13,10 +13,10 @@ Build your confidence!! - 임시적인 우울증 분석 프로그램.
 -------------
 # 사용법
 
-#- BYC_ka
+# - BYC_ka
  1. 카카오톡 또는 다른 앱에서 대화내용을 내보내기 하여 KakaoTalkChats.txt와 바꿔준다.
  2. BYC_ka 을 실행
 
-#- BYC_수동
+# - BYC_수동
  1. 글을 입력해 주세요.txt 에 분석하고자 하는 글을 입력함.
  2. BYC_수동 을 실행
