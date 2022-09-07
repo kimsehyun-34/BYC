@@ -4,8 +4,9 @@ Build your confidence!! - 임시적인 우울증 분석 프로그램.
 단순히 참고만 해주세요..
 -------------
 # 이론
-- 우울증 환자군의 특징인 '나는', '나를' 같은 1인칭 단수 대명사를 이반적인 사람들 보다 더 많이 사용함
-- '나는', '나를'. '나' 의 사용빈도가 50단어중 1단어 이상이 나오면 점수에 반영되면 각각 33.3점 총점 99.9점임.
+- 우울증 환자군의 특징인 '나는', '나를', '내..', '난' 과 같은 1인칭 단수 대명사를 이반적인 사람들 보다 더 많이 사용함.
+- '나는', '나를', '나', '내..', '난' 의 사용빈도가 55단어중 1단어 이상이 나오면 점수에 반영되면 각각 +20.5점, 추가적으로 35단어중 1단어 이상일 경우 +20점, 총점 195점임.
+- '우리' 같은 복수 대명사가 나올경우 단어수만큼 점수를 차함.
 - 추후에 단어 추가와 더욱 체계적이도록 업데이트할 계획.
 
 + 학술지 (1.Bernard JD, Baddeley JL, Rodriguez BF, Burke PA. Depression, Language, and Affect: An Examination of the Influence of Baseline Depression and Affect Induction on Language. Journal of Language and Social Psychology).
