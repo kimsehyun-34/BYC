@@ -106,30 +106,36 @@ print("+1:",mainp)
 #was=wii/4.5
 #print("기준:",was)
 
-if (main_1<55): #지수 측정, x글자중 1글이상 나오면 33.3점+
-    depression=depression+20.5
-    if (main_1<35):
-        depression=depression+20
+if (wo > 1):
+    if (main_1<55): #지수 측정, x글자중 1글이상 나오면 33.3점+
+        depression=depression+20.5
+        if (main_1<35):
+            depression=depression+20
 
-if (main_2<55): #지수 측정, x글자중 1글이상 나오면 33.3점+
-    depression=depression+20.5
-    if (main_2<35):
-        depression=depression+20
+if (woo > 1):
+    if (main_2<55): #지수 측정, x글자중 1글이상 나오면 33.3점+
+        depression=depression+20.5
+        if (main_2<35):
+            depression=depression+20
 
-if (main_3<55): #지수 측정, x글자중 1글이상 나오면 33.3점+
-    depression=depression+20.5
-    if (main_3<35):
-        depression=depression+20
+if (wooo > 1):
+    if (main_3<55): #지수 측정, x글자중 1글이상 나오면 33.3점+
+        depression=depression+20.5
+        if (main_3<35):
+            depression=depression+20
 
-if (main_4<55): #지수 축정, x글자중 1글상 니오면 18점+
-    depression=depression+18
-    if (main_4<15):
-        depression=depression+15
+if (woooo > 1):
+    if (main_4<55): #지수 축정, x글자중 1글상 니오면 18점+
+        depression=depression+18
+        if (main_4<15):
+            depression=depression+15
 
-if (main_5<55):
-    depression=depression+20.5
-    if (main_5<35):
-        depression=depression+20
+if (wooooo > 1):
+    if (main_5<55):
+        depression=depression+20.5
+        if (main_5<35):
+            depression=depression+20
+
 
 if (io>2): #다인칭 대명사 사용시 개수만큼 지수를 차함
     iio=(io-1)*2
