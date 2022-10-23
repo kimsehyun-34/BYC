@@ -133,7 +133,7 @@ if (main_5<55):
 
 if (io>2): #다인칭 대명사 사용시 개수만큼 지수를 차함
     iio=(io-1)*2
-    depresszon=depresszon-iio
+    depression=depression-iio
     
 
 print("\n계산중...\n")
